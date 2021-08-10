@@ -85,5 +85,39 @@ footer {
 	color: black;
 	text-align: center;
 }
+p{
+	color: aliceblue;
+	font-size: large;
+	font-weight: 700;
+}
 
+.list-non-bullet {
+list-style: none;
+padding-inline-start: 0px;
+}
+	
+.list-item-inline {
+display: inline;
+padding: 0rem 0.5rem;
+}
+.footer ul {
+	padding-inline-start: 0px;
+  }
 
+  footer {
+  
+	padding: 4rem 1rem;
+	margin-top: 2rem;
+	text-align: center;
+	color: white;
+	border-top-right-radius: 1rem;
+  }
+  
+  .footer .link {
+	color: white
+  }
+  
+  .footer .footer-header {
+	font-weight: bold;
+	font-size: large;
+  }
